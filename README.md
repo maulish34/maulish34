@@ -7,7 +7,7 @@
 - 🏅 **First Class (90%) BSc (Hons) Computer Science Graduate**  
   Newcastle University, UK  
   *Winner of the Cliff Kamara Prize for the highest overall grade!*
-- 💡 **Currently:** Systems Design Intern @ [Altus Intel]([https://www.altusintel.com/](https://altus-intel.com/)), building AI-powered SaaS magic
+- 💡 **Currently:** Systems Design Intern @ [Altus Intel](https://altus-intel.com/), building AI-powered SaaS magic
 - 🧠 Passionate about Deep Learning, AI Efficiency, Data Science, and Full-Stack Development
 - 🚀 Exploring new opportunities in **Tech Consulting** & **Data Science**
 - 🌍 Interests: Global Politics | ☕ Coffee Enthusiast | 🏎️ Formula 1 | ⚽ Football
@@ -28,11 +28,22 @@
 
 ## 🚀 Notable Projects
 
-- **[GetFitMate](https://github.com/maulish34/GetFitMate)**: Your AI-powered fitness companion  
-- **Computer Vision Projects**: Fast, Efficient Classification
-- **Machine Learning & Data Engineering**: From data cleaning to modelling
+- **[GetFitMate](https://github.com/maulish34/GetFitMate)**  
+  A comprehensive fitness app for workout tracking, custom templates, personal trainer browsing, goal setting, and admin management including trainer approvals and email newsletters.  
+  *See the repository README for full features!*
 
-*Check out my pinned repos for more!*
+- **[Deep Learning, Data Engineering & Machine Learning Projects](https://github.com/maulish34/deep-learning-data-engineering-ml)**  
+  Includes:  
+  - Computer vision classification (CIFAR-10) with hyperparameter tuning & batch norm comparison  
+  - Data engineering (California Housing EDA, contextual outlier detection, imputation)  
+  - Machine learning (MNIST regression & PCA-based image reconstruction with similarity evaluation)  
+  *Details outlined in the repo README.*
+
+- **[World Country Demographics Visualisation](https://github.com/maulish34/world-country-demographics-viz)**  
+  Interactive HTML-based Multiple Coordinated Views for socio-economic and health data across countries/continents, with extensive design/UX principles and advanced interactive features.  
+  *More info in the project README.*
+
+Feel free to browse their individual README files for further information.
 
 ---
 
